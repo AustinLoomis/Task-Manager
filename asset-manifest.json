@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tak-Manager/static/css/main.9b773151.css",
+    "main.js": "/Tak-Manager/static/js/main.72af580b.js",
+    "index.html": "/Tak-Manager/index.html",
+    "main.9b773151.css.map": "/Tak-Manager/static/css/main.9b773151.css.map",
+    "main.72af580b.js.map": "/Tak-Manager/static/js/main.72af580b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b773151.css",
+    "static/js/main.72af580b.js"
+  ]
+}
